@@ -143,5 +143,5 @@ O projeto adere a altos padrões de qualidade de código, incluindo:
 
 ---
 
-**Autor:** Manus AI
+**Autor:** Kael Loureiro Schossler de Sá
 **Licença:** MIT
